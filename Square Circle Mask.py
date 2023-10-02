@@ -1,3 +1,8 @@
+#Narkar and Fenske (2023): A search for an affective index of inhibition in the narrowing of attention 
+#reveals interactive effects of congruence and exposure on stimulus liking
+
+#Code for cropping the square and circle mondrian like patterns for stimuli generation for Experiments 1-4.
+
 #packages: 
 from PIL import Image, ImageDraw, ImageFilter, ImageOps
 import os
