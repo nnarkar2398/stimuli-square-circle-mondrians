@@ -1,7 +1,7 @@
 #Narkar and Fenske (2023): A search for an affective index of inhibition in the narrowing of attention 
 #reveals interactive effects of congruence and exposure on stimulus liking
 
-#Code for generating the mondrian like patterns for circles for stimuli generation
+#Code for generating the mondrian like patterns for circles for stimuli generation for Experiments 1-4.
 
 #load required libraries, packages
 from psychopy import visual, core, data, event, logging, gui, misc, monitors
